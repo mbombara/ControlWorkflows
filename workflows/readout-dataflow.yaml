@@ -132,6 +132,7 @@ defaults:
     values:
       - none
       - minimal-dpl
+      - ctp-raw-qc 
   ctp_qc_remote_workflow: !public
     value: "none"
     type: string
